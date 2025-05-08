@@ -1,6 +1,8 @@
 # IPL-DATA-ANLAYSIS-PROJECT
 
 ### Tools used ###
-jupyter notebook 
+Jupyter notebook 
+
 python programming
+
 matplotlib module
